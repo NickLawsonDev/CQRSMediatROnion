@@ -1,0 +1,1 @@
+global using CQRSMediatROnion.Core.Domain.Common;
