@@ -1,5 +1,3 @@
-using CQRSMediatROnion.Core.Domain.Common;
-
 namespace CQRSMediatROnion.Core.Domain.Entities;
 
 public class Product : BaseEntity
